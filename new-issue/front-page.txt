@@ -17,13 +17,13 @@ Serving you daily printed news since before newspapers went online.
 * headline
 
 ## Weekly Weather
-Sunday:    REPLACE
-Monday:    REPLACE
-Tuesday:   REPLACE
-Wednesday: REPLACE
-Thursday:  REPLACE
-Friday:    REPLACE
-Saturday:  REPLACE
+Sunday:    Sunny day, so bring your caps. Highest temp 38degC, lowest 30degC. If you have a pet reptile, remember to keep it cool!
+Monday:    Sunny day, bring your tumbler and get your ice cool coffees from SturBuzz! Flash this weather report to get 5% discount. Highest at 38degC, coolest at 31.3degC.
+Tuesday:   Partly cloudy, expecting slight drizzle on the west side. No matter, flash this news report at Starbuzz to get your 5% off the new fraps. Highest at 34degC, coolest at 28degC.
+Wednesday: Showers expected in the afternoon, remember to bring your strongest umbrella out. Best day to have a hot cuppa indoors especially from Starbuzz. Get your 5% off your Starbuzz's Today's Brew. Highest at 32degC, coolest at 25degC.
+Thursday:  Shower radars are going crazy in the west side, possible hurricanes. Citizens are adviced to stay indoors, spiderman should avoid swinging too. Starbuzz has hurricane-proof windows so get a cuppa and watch the cars fly. Who cares about temperature today.
+Friday:    Cloudy day, at least a relieve I suppose? Careful on the shards and debris on the streets. Highest 30degC, coolest at 28degC.
+Saturday:  Sunny again, Hot. Go out and enjoy the beach again.
 
 June 27, 2016
 25 cents

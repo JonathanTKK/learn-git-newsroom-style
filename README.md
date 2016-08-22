@@ -29,7 +29,7 @@ snappy! News never stops!
 ## Editor in Chief
 
 Your responsible to review pull requests and make sure the paper stays in order.
-You should be the one that forks this repo once, and everyone else should fork 
+You should be the one that forks this repo once, and everyone else should fork
 from your repo to make pull requests easier.
 
 Don't approve any pull requests that don't merge! If something doesn't merge
@@ -37,13 +37,14 @@ easily then send it back to the reporter who contributed the content and tell
 them to make sure they merge it with the latest copy of the paper.
 
 ## Required Contributions & Revisions
-* The local news story about the cat stuck in a tree has an error. The name was
-completely wrong. Change all instances of "Sam Cowell" to "Henry Berringer."
-* Write a local news column about the cat show going on at city center. It's
-called "Paws at the Pumpkin Patch." Remind people there's another one coming up
-in February called "My Furry Valentine."
-* Someone needs to write a short piece about the "soduku" craze sweeping the
-nation. Can someone please get on this and tell me what the heck this is?!
+* The local news story about the cat stuck in a tree at Cherry and 3rd.
+Resident deli owner Sam Cowell says he chased the cat out of his store
+at 3:00 PM. Regular customer Susan Crandon says the cat was chasing rats.
+Sam Cowell denies this allegation.
+* The cat show going on at city center. It's called "Paws at the Pumpkin Patch."
+There's another one coming up in February called "My Furry Valentine."
+* The "soduku" craze sweeping the nation like wild fire. It is a fun and exciting game
+that any youmg or old person can play.
 * Spider man is still on the lose harassing citizens. Someone find a picture
 of him and upload it to our spiderman folder so we have something on file the
 next time he causes us any trouble!! We don't need this picture to appear

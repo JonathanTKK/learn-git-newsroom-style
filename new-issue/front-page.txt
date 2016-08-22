@@ -9,7 +9,7 @@ Serving you daily printed news since before newspapers went online.
 * headline
 
 ## Sports
-* headline
+* High school basketball score 93-78
 * headline
 
 ## Culture
